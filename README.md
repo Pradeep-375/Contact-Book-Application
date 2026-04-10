@@ -1,5 +1,4 @@
 **📒 Contact Book Application (Java)**
-🚀 Overview
 
 The Contact Book Application is a menu-driven Java program designed to manage contacts efficiently. It allows users to store, search, update, and delete contact details using a simple command-line interface.
 This project demonstrates the use of HashMap for fast data storage and retrieval, along with core Java concepts like loops, conditionals, and user input handling.
@@ -53,6 +52,7 @@ Contact-Book/
 🔎 Search by phone number
 🧾 Sort contacts alphabetically
 🖼️ GUI using Java Swing or JavaFX
+
 
 📌 Author
 
