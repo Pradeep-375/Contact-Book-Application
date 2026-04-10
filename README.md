@@ -26,7 +26,7 @@ Contact-Book/
 
 **▶️ How to Run**
 1. Clone the Repository
-  git clone https://github.com/your-username/contact-book.git
+  git clone (https://github.com/Pradeep-375/Contact-Book-Application/blob/main/ContactBook.java)
 2. Navigate to Project Folder
   cd contact-book
 3. Compile the Code
